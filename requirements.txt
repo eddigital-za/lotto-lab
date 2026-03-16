@@ -1,0 +1,9 @@
+numpy
+scipy
+scikit-learn
+beautifulsoup4
+requests
+dash
+dash-bootstrap-components
+plotly
+gunicorn
